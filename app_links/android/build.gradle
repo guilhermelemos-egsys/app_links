@@ -23,8 +23,6 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace 'com.llfbandit.app_links'
-
     compileSdkVersion 35
 
     compileOptions {
